@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Views App</string>
+
+    <string-array name="spinner_items">
+        <item>Select an option</item>
+        <item>One</item>
+        <item>Two</item>
+        <item>three</item>
+    </string-array>
+
+</resources>
